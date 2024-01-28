@@ -1,0 +1,27 @@
+{
+    "id": "C29D5225",
+    "path": "C:/Dashboards/R-Lectures/R Lecture-1/ML-2/Session-1.R",
+    "project_path": "Session-1.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1706461372160.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "34,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1706461715,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1706461715195,
+    "read_only": false,
+    "read_only_alternatives": []
+}
